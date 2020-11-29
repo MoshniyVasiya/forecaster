@@ -2,6 +2,7 @@
 
 ## Directory-based project format:
 .idea/
+.eslintcache
 
 # dependencies
 /node_modules
